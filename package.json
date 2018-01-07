@@ -21,7 +21,16 @@
   },
   "homepage": "https://github.com/johnmausfam/rguide#readme",
   "devDependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.6.2",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.10.0"
+  },
+  "dependencies": {
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
